@@ -1,0 +1,1 @@
+function about(){place="about"}function downAbout(){}function upAbout(){menu()}function aboutMain(){menuPlanet.t+=.006}function drawAbout(){ctx.save(),ctx.drawImage(m_canvas,0,0),ctx.fillStyle="white",ctx.font=.1*H+"px LeagueGothic",ctx.textBaseline="bottom",ctx.textAlign="center",wrapText(ctx,"Space Journey\nCreated by Imanol Perez",.5*W,.5*H,.8*W,.2*H),ctx.restore()}
