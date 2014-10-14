@@ -1,4 +1,4 @@
 Space-Journey-Game
 ==================
 
-Game written in HTML5.
+Travel in space, and try to get through all the levels!
